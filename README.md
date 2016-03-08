@@ -1,2 +1,3 @@
 # Hello-World
-git hub tutorial
+
+Test Github is a repository for showing bare minimums etc
